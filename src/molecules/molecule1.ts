@@ -1,0 +1,1 @@
+export default "molecule1";
